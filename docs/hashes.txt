@@ -1,0 +1,12 @@
+# SHA-256 integrity hashes for evidence files
+# Compute locally:
+#   macOS/Linux: shasum -a 256 <file>
+#   Windows PowerShell: Get-FileHash -Algorithm SHA256 <file>
+
+chatgpt5_reference_oct2025.png  TODO_ADD_SHA256
+chatgpt5_reference_oct2025.txt  TODO_ADD_SHA256
+grok_reference_oct2025.png      TODO_ADD_SHA256
+perplexity_reference_oct2025.png  TODO_ADD_SHA256
+gemini_reference_oct2025.png    TODO_ADD_SHA256
+metaai_reference_oct2025.png    TODO_ADD_SHA256
+copilot_reference_oct2025.png   TODO_ADD_SHA256
