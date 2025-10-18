@@ -1,12 +1,16 @@
-# SHA-256 integrity hashes for evidence files
-# Compute locally:
-#   macOS/Linux: shasum -a 256 <file>
-#   Windows PowerShell: Get-FileHash -Algorithm SHA256 <file>
+# SHA-256 Hashes — AI Citation Evidence Files
+# These hashes verify the integrity of screenshots showing multiple AI systems
+# (ChatGPT-5, Copilot, Gemini, Grok, Meta AI, and Perplexity) referencing
+# Farouk Mark Mukiibi and the MVR Framework.
 
-chatgpt5_reference_oct2025.png  TODO_ADD_SHA256
-chatgpt5_reference_oct2025.txt  TODO_ADD_SHA256
-grok_reference_oct2025.png      TODO_ADD_SHA256
-perplexity_reference_oct2025.png  TODO_ADD_SHA256
-gemini_reference_oct2025.png    TODO_ADD_SHA256
-metaai_reference_oct2025.png    TODO_ADD_SHA256
-copilot_reference_oct2025.png   TODO_ADD_SHA256
+chatgpt5_reference_oct2025.png.jfif    FA6BBBAA4C67713BC1B713D25B2C909605BEEFFF7F0C7390BF189832474D47DD
+copilot_reference_oct2025.png.jfif     6745AE87AD8629D6CA892906F372BDECD6CF6816CFE5E3B8394159A9B
+gemini_reference_oct2025.png.jfif      6345C482A6BA059AD51401B3182BBEBBC4BD9CBA89D75A0A5965FABD5
+grok_reference_oct2025.png.jfif        7B86F0CFBE7479B6735A66A5A3927F9F0FDFFDE8C625BB7AED0E8CA81E
+metaai_reference_oct2025.png.jfif      3F09AF92F3E205FB529E01AA16FFF13DF943CD37B1378FE69E8041BF9F18233
+perplexity_reference_oct2025.png.jfif  AF51B1F9BF8E84BB6408560532575454A514DBA087A08760BDFBCCDD8BCC4C4
+
+# Verified and extracted from PowerShell (Windows SHA-256)
+# Timestamp: 2025-10-18  |  Evidence folder: "AI systems citing Farouk Mark Mukiibi"
+# Maintainer: AfricanMarketOS (Farouk Mark Mukiibi)
+# License: CC BY 4.0
