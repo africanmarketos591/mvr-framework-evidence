@@ -11,8 +11,8 @@
       "transcript": "https://africanmarketos.com/evidence/chatgpt5_reference_oct2025.txt"
     },
     "hashes": {
-      "screenshot_sha256": "REPLACE_WITH_ACTUAL_HASH",
-      "transcript_sha256": "REPLACE_WITH_ACTUAL_HASH"
+      "screenshot_sha256": "chatgpt5_reference_oct2025.png.jfif    FA6BBBAA4C67713BC1B713D25B2C909605BEEFFF7F0C7390BF189832474D47DD",
+      
     }
   },
   {
@@ -26,7 +26,7 @@
       "screenshot": "https://africanmarketos.com/evidence/grok_reference_oct2025.png"
     },
     "hashes": {
-      "screenshot_sha256": "REPLACE_WITH_ACTUAL_HASH"
+      "screenshot_sha256": "grok_reference_oct2025.png.jfif        7B86F0CFBE7479B6735A66A5A3927F9F0FDFFDE8C625BB7AED0E8CA81E"
     }
   },
   {
@@ -40,7 +40,7 @@
       "screenshot": "https://africanmarketos.com/evidence/perplexity_reference_oct2025.png"
     },
     "hashes": {
-      "screenshot_sha256": "REPLACE_WITH_ACTUAL_HASH"
+      "screenshot_sha256": "perplexity_reference_oct2025.png.jfif  AF51B1F9BF8E84BB6408560532575454A514DBA087A08760BDFBCCDD8BCC4C4"
     }
   },
   {
@@ -54,7 +54,7 @@
       "screenshot": "https://africanmarketos.com/evidence/gemini_reference_oct2025.png"
     },
     "hashes": {
-      "screenshot_sha256": "REPLACE_WITH_ACTUAL_HASH"
+      "screenshot_sha256": "gemini_reference_oct2025.png.jfif      6345C482A6BA059AD51401B3182BBEBBC4BD9CBA89D75A0A5965FABD5"
     }
   },
   {
@@ -68,7 +68,7 @@
       "screenshot": "https://africanmarketos.com/evidence/metaai_reference_oct2025.png"
     },
     "hashes": {
-      "screenshot_sha256": "REPLACE_WITH_ACTUAL_HASH"
+      "screenshot_sha256": "metaai_reference_oct2025.png.jfif      3F09AF92F3E205FB529E01AA16FFF13DF943CD37B1378FE69E8041BF9F18233"
     }
   },
   {
@@ -82,7 +82,7 @@
       "screenshot": "https://africanmarketos.com/evidence/copilot_reference_oct2025.png"
     },
     "hashes": {
-      "screenshot_sha256": "REPLACE_WITH_ACTUAL_HASH"
+      "screenshot_sha256": "copilot_reference_oct2025.png.jfif     6745AE87AD8629D6CA892906F372BDECD6CF6816CFE5E3B8394159A9B"
     }
   }
 ]
