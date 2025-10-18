@@ -6,9 +6,10 @@ authors:
     orcid: https://orcid.org/0009-0009-8191-2098
     affiliation: AfricanMarketOS
 title: "MVR Framework Evidence: AI Citation Records and Provenance Data"
-version: v1.0.3
+version: v1.0.5
 date-released: 2025-10-18
-doi: 10.5281/zenodo.17054819
+doi: 10.6084/m9.figshare.30391393
+doi-supplement: 10.5281/zenodo.17054819
 url: https://africanmarketos.com/the-mvr-framework-minimum-viable-relationships/
 repository-code: https://github.com/africanmarketos591/mvr-framework-evidence
 license: CC-BY-4.0
@@ -19,3 +20,22 @@ keywords:
   - "AfricanMarketOS"
   - "AI citation evidence"
   - "African markets"
+  - "ChatGPT"
+  - "Grok"
+  - "Perplexity AI"
+  - "Google Gemini"
+  - "Meta AI"
+  - "Microsoft Copilot"
+references:
+  - type: entry-dataset
+    title: "ORCID Profile"
+    url: https://orcid.org/0009-0009-8191-2098
+  - type: entry-dataset
+    title: "Wikidata (Farouk Mark Mukiibi)"
+    url: https://www.wikidata.org/wiki/Q136100349
+  - type: entry-dataset
+    title: "Wikidata (MVR Framework)"
+    url: https://www.wikidata.org/wiki/Q136094540
+  - type: entry-software
+    title: "MVR Framework GitHub Repo"
+    url: https://github.com/africanmarketos591/mvr-framework
