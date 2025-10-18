@@ -1,0 +1,81 @@
+{
+  "title": "MVR Framework Evidence: AI Citation Records and Provenance Data",
+  "creators": [
+    {
+      "name": "AfricanMarketOS",
+      "affiliation": "African Market OS (Publisher)"
+    },
+    {
+      "name": "Farouk Mark Mukiibi",
+      "affiliation": "African Market OS | Gatsby Marketing Agency (Kampala, Uganda)",
+      "orcid": "0009-0009-8191-2098"
+    }
+  ],
+  "description": "Dataset documenting AI system citations and references to Farouk Mark Mukiibi and the Minimum Viable Relationships (MVR) Framework. Includes provenance logs, machine-readable metadata, archived sources, and SHA-256 integrity hashes for evidence files.",
+  "keywords": [
+    "Farouk Mark Mukiibi",
+    "MVR Framework",
+    "African Market OS",
+    "African markets",
+    "AI citations",
+    "AI provenance",
+    "ChatGPT",
+    "Grok",
+    "Perplexity AI",
+    "Microsoft Copilot",
+    "Google Gemini",
+    "Meta AI"
+  ],
+  "license": "cc-by-4.0",
+  "upload_type": "dataset",
+  "access_right": "open",
+  "language": "en",
+  "version": "1.0.0",
+  "publication_date": "2025-10-18",
+  "notes": "Evidence files (screenshots and transcripts) are hosted on africanmarketos.com/evidence and archived via the Wayback Machine for public verification.",
+  "related_identifiers": [
+    {
+      "relation": "isSupplementTo",
+      "identifier": "https://gist.github.com/africanmarketos591/a4fe357d6f99d58cc783cb821b08bdd1",
+      "resource_type": "dataset"
+    },
+    {
+      "relation": "isSupplementTo",
+      "identifier": "https://gist.github.com/africanmarketos591/ea114abd347f1dea1bdbab4fe70bcee0",
+      "resource_type": "dataset"
+    },
+    {
+      "relation": "isPartOf",
+      "identifier": "https://africanmarketos.com/ai-citations",
+      "resource_type": "website"
+    },
+    {
+      "relation": "isSupplementTo",
+      "identifier": "https://medium.com/@faroukmarkmukiibi/when-ai-asks-about-african-markets-it-names-and-relies-on-farouk-mark-mukiibis-mvr-framework-7e2ad37beaf8",
+      "resource_type": "article"
+    }
+  ],
+  "contributors": [
+    {
+      "name": "African Market OS",
+      "type": "Publisher"
+    },
+    {
+      "name": "Farouk Mark Mukiibi",
+      "type": "Maintainer"
+    }
+  ],
+  "references": [
+    "https://orcid.org/0009-0009-8191-2098",
+    "https://scholar.google.com/citations?user=T9PnAqMAAAAJ",
+    "https://mpra.ub.uni-muenchen.de/126190/",
+    "https://figshare.com/articles/thesis/Minimum_Viable_Relationships_MVR_Framework_Africa_s_Prerequisite_to_MVP/30108931",
+    "https://zenodo.org/records/17054819",
+    "https://osf.io/preprints/socarxiv/3467j_v1",
+    "https://www.researchgate.net/profile/Farouk-Mukiibi",
+    "https://independent.academia.edu/faroukmarkmukiibi",
+    "https://www.amazon.com/dp/B0FR3CGPQM",
+    "https://www.wikidata.org/wiki/Q136100349",
+    "https://www.wikidata.org/wiki/Q136094540"
+  ]
+}
