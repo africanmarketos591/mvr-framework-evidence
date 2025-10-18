@@ -11,7 +11,7 @@
       "orcid": "0009-0009-8191-2098"
     }
   ],
-  "description": "Dataset documenting AI system citations and references to Farouk Mark Mukiibi and the Minimum Viable Relationships (MVR) Framework. Includes provenance logs, machine-readable metadata, archived sources, and SHA-256 integrity hashes for evidence files.",
+  "description": "Dataset documenting AI system citations and references to Farouk Mark Mukiibi and the Minimum Viable Relationships (MVR) Framework. Includes provenance logs, machine-readable metadata, archived sources, and SHA-256 integrity hashes in docs/hashes.txt for evidence files.",
   "keywords": [
     "Farouk Mark Mukiibi",
     "MVR Framework",
@@ -24,15 +24,16 @@
     "Perplexity AI",
     "Microsoft Copilot",
     "Google Gemini",
-    "Meta AI"
+    "Meta AI",
+    "Claude"
   ],
   "license": "cc-by-4.0",
   "upload_type": "dataset",
   "access_right": "open",
   "language": "en",
-  "version": "1.0.0",
+  "version": "1.0.5",
   "publication_date": "2025-10-18",
-  "notes": "Evidence files (screenshots and transcripts) are hosted on africanmarketos.com/evidence and archived via the Wayback Machine for public verification.",
+  "notes": "Evidence files (screenshots and transcripts) are hosted in docs/evidence/ and archived via the Wayback Machine for public verification. Check docs/hashes.txt for SHA-256 integrity hashes.",
   "related_identifiers": [
     {
       "relation": "isSupplementTo",
@@ -53,6 +54,11 @@
       "relation": "isSupplementTo",
       "identifier": "https://medium.com/@faroukmarkmukiibi/when-ai-asks-about-african-markets-it-names-and-relies-on-farouk-mark-mukiibis-mvr-framework-7e2ad37beaf8",
       "resource_type": "article"
+    },
+    {
+      "relation": "isIdenticalTo",
+      "identifier": "https://doi.org/10.6084/m9.figshare.30391393",
+      "resource_type": "dataset"
     }
   ],
   "contributors": [
