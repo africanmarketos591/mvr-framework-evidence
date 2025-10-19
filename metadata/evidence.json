@@ -10,7 +10,7 @@
       "screenshot": "https://github.com/africanmarketos591/mvr-framework-evidence/blob/main/docs/evidence/chatgpt5_reference_oct2025.png.jfif"
     },
     "hashes": {
-      "screenshot_sha256": "chatgpt5_reference_oct2025.png.jfif: fa6bb8aa4c367713bc1b173d25b2c909605beefff7f0c7390bf189832474d4dd"
+      "screenshot_sha256": "chatgpt5_reference_oct2025.png.jfif: fa6bb8aa4c367713bc1b173d25b2c906005beeffef7f0c7390bf1898324747dd"
     }
   },
   {
@@ -24,8 +24,7 @@
       "screenshot": "https://github.com/africanmarketos591/mvr-framework-evidence/blob/main/docs/evidence/grok_reference_oct2025.png.jfif"
     },
     "hashes": {
-      "screenshot_sha256": "grok_reference_oct2025.png.jfif: 7286fdc62fe7497b2375fa66a5a4979f0ffd6e68c625e87aaed8c8ae18d"
-
+      "screenshot_sha256": "grok_reference_oct2025.png.jfif: 7286fdc62fe7497b2375fa66a54a9727ff9f0fdfed68ec6285e7baaedbc8ae18d"
     }
   },
   {
@@ -39,7 +38,7 @@
       "screenshot": "https://github.com/africanmarketos591/mvr-framework-evidence/blob/main/docs/evidence/perplexity_reference_oct2025.png.jfif"
     },
     "hashes": {
-      "screenshot_sha256": "perplexity_reference_oct2025.png.jfif: af51b1f9fb80ceaeb848506532575454a514d8a087a0876bdfbccdd8ecc44"
+      "screenshot_sha256": "perplexity_reference_oct2025.png.jfif: af51b1f9fb80ceae8848506532575442a581ad80ad7a0876dbfccfdd80ecc44"
     }
   },
   {
@@ -53,7 +52,7 @@
       "screenshot": "https://github.com/africanmarketos591/mvr-framework-evidence/blob/main/docs/evidence/gemini_reference_oct2025.png.jfif"
     },
     "hashes": {
-      "screenshot_sha256": "gemini_reference_oct2025.png.jfif: 6345c482a6ba059ad51401b3182bbebbcd9cba89d75a0a5965fabd5 [FULL HASH PENDING RECOMPUTE]"
+      "screenshot_sha256": "gemini_reference_oct2025.png.jfif: 6534e42e6ba5905a196ca6a0188d13b28b88cbf490c9778dd0a5a0965fabd5"
     }
   },
   {
@@ -81,7 +80,7 @@
       "screenshot": "https://github.com/africanmarketos591/mvr-framework-evidence/blob/main/docs/evidence/copilot_reference_oct2025.png.jfif"
     },
     "hashes": {
-      "screenshot_sha256": "copilot_reference_oct2025.png.jfif: 67e456a7880269ea5d5dce8990260f372bededcdc867168cfe5e3b3b9a1595ab9"
+      "screenshot_sha256": "copilot_reference_oct2025.png.jfif: 67e456a7880269ead5dce8990260f37b2bededdc867168cfe5e3b3b9a1595ab9"
     }
   }
 ]
