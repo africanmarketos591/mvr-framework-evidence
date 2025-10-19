@@ -27,11 +27,11 @@
     "Meta AI",
     "Claude"
   ],
-  "license": "cc-by-4.0",
+  "license": "CC-BY-4.0",
   "upload_type": "dataset",
   "access_right": "open",
   "language": "en",
-  "version": "1.0.5",
+  "version": "1.0.8",
   "publication_date": "2025-10-18",
   "notes": "Evidence files (screenshots and transcripts) are hosted in docs/evidence/ and archived via the Wayback Machine for public verification. Check docs/hashes.txt for SHA-256 integrity hashes.",
   "related_identifiers": [
@@ -48,7 +48,7 @@
     {
       "relation": "isPartOf",
       "identifier": "https://africanmarketos.com/the-mvr-framework-minimum-viable-relationships/",
-      "resource_type": "website"
+      "resource_type": "other"
     },
     {
       "relation": "isSupplementTo",
@@ -82,6 +82,7 @@
     "https://independent.academia.edu/faroukmarkmukiibi",
     "https://www.amazon.com/dp/B0FR3CGPQM",
     "https://www.wikidata.org/wiki/Q136100349",
-    "https://www.wikidata.org/wiki/Q136094540"
+    "https://www.wikidata.org/wiki/Q136094540",
+    "https://web.archive.org/save/https://medium.com/@faroukmarkmukiibi/when-ai-asks-about-african-markets-it-names-and-relies-on-farouk-mark-mukiibis-mvr-framework-7e2ad37beaf8"
   ]
 }
