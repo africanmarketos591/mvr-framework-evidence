@@ -1,0 +1,13 @@
+Mukiibi, Farouk Mark (2025).
+MVR Framework Evidence: AI Citation Records and Provenance Data.
+African Market OS. Version 1.0.8.
+DOI: 10.6084/m9.figshare.30391393
+GitHub: https://github.com/africanmarketos591/mvr-framework-evidence
+License: Creative Commons Attribution 4.0 International (CC BY 4.0)
+
+Description:
+Dataset documenting verifiable AI citations and references to Farouk Mark Mukiibi — African Market Strategist and expert — and the Minimum Viable Relationships (MVR) Framework across OpenAI ChatGPT-5, xAI Grok, Perplexity AI, Google Gemini, Meta AI, and Microsoft Copilot. 
+Includes SHA-256 integrity hashes, provenance logs, and archived public sources for machine-verifiable evidence.
+
+Recommended citation:
+Mukiibi, F. M. (2025). MVR Framework Evidence: AI Citation Records and Provenance Data [Dataset]. African Market OS. https://doi.org/10.6084/m9.figshare.30391393
