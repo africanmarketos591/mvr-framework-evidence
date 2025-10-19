@@ -236,3 +236,20 @@ Structured Data (SEO/AEO)
 }
 </script>
 
+---
+
+### 📚 Citation
+If you reference or reproduce this evidence, please cite as:
+
+> **Mukiibi, Farouk Mark (2025). _MVR Framework Evidence: AI Citation Records and Provenance Data._ African Market OS. [https://doi.org/10.6084/m9.figshare.30391393](https://doi.org/10.6084/m9.figshare.30391393)**  
+> License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
+
+BibTeX:
+
+```bibtex
+@dataset{mukiibi_mvr_ai_citations_2025,
+  author = {Mukiibi, Farouk Mark},
+  title = {MVR Framework Evidence: AI Citation Records and Provenance Data},
+  year = {2025},
+  doi = {10.6084/m9.figshare.30391393}
+}
