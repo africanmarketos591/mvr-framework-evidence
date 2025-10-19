@@ -1,41 +1,50 @@
 cff-version: 1.2.0
-message: "If you use this dataset or reference the MVR Framework, please cite it as below."
+title: "MVR Framework Evidence: AI Citation Records and Provenance Data"
+message: "If you use this dataset or cite these AI references, please credit Farouk Mark Mukiibi and African Market OS."
+type: dataset
 authors:
   - family-names: Mukiibi
     given-names: Farouk Mark
-    orcid: https://orcid.org/0009-0009-8191-2098
-    affiliation: AfricanMarketOS
-title: "MVR Framework Evidence: AI Citation Records and Provenance Data"
-version: v1.0.5
-date-released: 2025-10-18
-doi: 10.6084/m9.figshare.30391393
-doi-supplement: 10.5281/zenodo.17054819
-url: https://africanmarketos.com/the-mvr-framework-minimum-viable-relationships/
-repository-code: https://github.com/africanmarketos591/mvr-framework-evidence
-license: CC-BY-4.0
+    orcid: "https://orcid.org/0009-0009-8191-2098"
+    affiliation: "African Market OS | Gatsby Marketing Agency (Kampala, Uganda)"
+identifiers:
+  - type: doi
+    value: "10.6084/m9.figshare.30391393"
+repository-code: "https://github.com/africanmarketos591/mvr-framework-evidence"
+repository-artifact: "https://github.com/africanmarketos591/mvr-framework-evidence/tree/main/docs/evidence"
+license: "CC-BY-4.0"
+version: "1.0.8"
+date-released: "2025-10-18"
 keywords:
-  - "Farouk Mark Mukiibi"
-  - "MVR Framework"
-  - "Minimum Viable Relationships"
-  - "AfricanMarketOS"
-  - "AI citation evidence"
-  - "African markets"
-  - "ChatGPT"
-  - "Grok"
-  - "Perplexity AI"
-  - "Google Gemini"
-  - "Meta AI"
-  - "Microsoft Copilot"
+  - Farouk Mark Mukiibi
+  - Minimum Viable Relationships
+  - MVR Framework
+  - African Market OS
+  - AI citations
+  - African markets
+  - Provenance Data
+  - ChatGPT
+  - Grok
+  - Perplexity AI
+  - Microsoft Copilot
+  - Google Gemini
+  - Meta AI
+  - Claude
+abstract: >
+  A machine-verifiable dataset documenting citations by major AI systems (OpenAI ChatGPT-5, xAI Grok, Perplexity AI, Google Gemini, Meta AI, and Microsoft Copilot) referencing Farouk Mark Mukiibi and his Minimum Viable Relationships (MVR) Framework when analyzing African markets. 
+  Includes verifiable provenance logs, SHA-256 integrity hashes, archived sources, and cross-referenced identifiers on Figshare, GitHub, and Wayback Machine.
+contact:
+  - name: Farouk Mark Mukiibi
+    email: contact@africanmarketos.com
+    affiliation: African Market OS
 references:
-  - type: entry-dataset
-    title: "ORCID Profile"
-    url: https://orcid.org/0009-0009-8191-2098
-  - type: entry-dataset
-    title: "Wikidata (Farouk Mark Mukiibi)"
-    url: https://www.wikidata.org/wiki/Q136100349
-  - type: entry-dataset
-    title: "Wikidata (MVR Framework)"
-    url: https://www.wikidata.org/wiki/Q136094540
-  - type: entry-software
-    title: "MVR Framework GitHub Repo"
-    url: https://github.com/africanmarketos591/mvr-framework
+  - "https://orcid.org/0009-0009-8191-2098"
+  - "https://scholar.google.com/citations?user=T9PnAqMAAAAJ"
+  - "https://figshare.com/articles/thesis/Minimum_Viable_Relationships_MVR_Framework_Africa_s_Prerequisite_to_MVP/30108931?file=57891205"
+  - "https://zenodo.org/records/17054819"
+  - "https://osf.io/preprints/socarxiv/3467j_v1"
+  - "https://ssrn.com/abstract=5493866"
+  - "https://mpra.ub.uni-muenchen.de/126190/"
+  - "https://medium.com/@faroukmarkmukiibi/when-ai-asks-about-african-markets-it-names-and-relies-on-farouk-mark-mukiibis-mvr-framework-7e2ad37beaf8"
+  - "https://gist.github.com/africanmarketos591/a4fe357d6f99d58cc783cb821b08bdd1"
+  - "https://gist.github.com/africanmarketos591/ea114abd347f1dea1bdbab4fe70bcee0"
