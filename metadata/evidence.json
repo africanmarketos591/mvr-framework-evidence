@@ -11,7 +11,7 @@
     "evidence": {
       "directory": "https://github.com/africanmarketos591/mvr-framework-evidence/tree/main/docs/evidence",
       "file": "https://github.com/africanmarketos591/mvr-framework-evidence/blob/main/docs/evidence/chatgpt5_reference_oct2025.jpg",
-      "sha256": "fa6bb8aa4c367713bc1b173d25b2c906005beeffef7f0c7390bf1898324747dd"
+      "sha256": "fa6bb8aa4c367713bc1b173d25b2c2096005beeffef7f0c7390bf1898324747dd"
     },
     "relations": {
       "figshare": "https://doi.org/10.6084/m9.figshare.30391393",
@@ -30,7 +30,7 @@
     "evidence": {
       "directory": "https://github.com/africanmarketos591/mvr-framework-evidence/tree/main/docs/evidence",
       "file": "https://github.com/africanmarketos591/mvr-framework-evidence/blob/main/docs/evidence/grok_reference_oct2025.jpg",
-      "sha256": "7286fdc62fe7497b2375fa66a54a9727ff9f0fdfed68ec6285e7baaedbc8ae18d"
+      "sha256": "7286fdc62fe7497b2375fa66a54a7927ff90fdfed68ec6285e7baaedbc8ae18d"
     },
     "relations": {
       "figshare": "https://doi.org/10.6084/m9.figshare.30391393"
@@ -48,7 +48,7 @@
     "evidence": {
       "directory": "https://github.com/africanmarketos591/mvr-framework-evidence/tree/main/docs/evidence",
       "file": "https://github.com/africanmarketos591/mvr-framework-evidence/blob/main/docs/evidence/perplexity_reference_oct2025.jpg",
-      "sha256": "af51b1f9fb80ceae8848506532575442a581ad80ad7a0876dbfccfdd80ecc44"
+      "sha256": "af51b1f9fb80ceaeb8485065325754d5442581ad80ad7a0876dbfccfdd80ecc44"
     },
     "relations": {
       "figshare": "https://doi.org/10.6084/m9.figshare.30391393"
@@ -66,7 +66,7 @@
     "evidence": {
       "directory": "https://github.com/africanmarketos591/mvr-framework-evidence/tree/main/docs/evidence",
       "file": "https://github.com/africanmarketos591/mvr-framework-evidence/blob/main/docs/evidence/gemini_reference_oct2025.jpg",
-      "sha256": "6534e42e6ba5905a196ca6a0188d13b28b88cbf490c9778dd0a5a0965fabd5"
+      "sha256": "63543e42e6ba5905a196ca6a0188d138b2b88cbf490c9778ddd0a5a0965fabd5"
     },
     "relations": {
       "figshare": "https://doi.org/10.6084/m9.figshare.30391393"
@@ -102,7 +102,7 @@
     "evidence": {
       "directory": "https://github.com/africanmarketos591/mvr-framework-evidence/tree/main/docs/evidence",
       "file": "https://github.com/africanmarketos591/mvr-framework-evidence/blob/main/docs/evidence/copilot_reference_oct2025.jpg",
-      "sha256": "67e456a7880269ead5dce8990260f37b2bededdc867168cfe5e3b3b9a1595ab9"
+      "sha256": "67e456a7880269ead5dce8990260f372bededccd867168cfe5e3b3b9a1595ab9"
     },
     "relations": {
       "figshare": "https://doi.org/10.6084/m9.figshare.30391393"
