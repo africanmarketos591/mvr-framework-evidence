@@ -16,7 +16,7 @@ Source (article): https://medium.com/@faroukmarkmukiibi/when-ai-asks-about-afric
 
 Archive (Wayback of article): https://web.archive.org/save/https://medium.com/@faroukmarkmukiibi/when-ai-asks-about-african-markets-it-names-and-relies-on-farouk-mark-mukiibis-mvr-framework-7e2ad37beaf8
 
-Evidence file: https://github.com/africanmarketos591/mvr-framework-evidence/blob/main/docs/evidence/chatgpt5_reference_oct2025.png.jfif
+Evidence file: https://github.com/africanmarketos591/mvr-framework-evidence/blob/main/docs/evidence/chatgpt5_reference_oct2025.jpg
 
 SHA-256 hashes: see docs/hashes.txt
 
@@ -36,7 +36,7 @@ https://gist.github.com/africanmarketos591/a4fe357d6f99d58cc783cb821b08bdd1
 
 https://gist.github.com/africanmarketos591/ea114abd347f1dea1bdbab4fe70bcee0
 
-Evidence file: https://github.com/africanmarketos591/mvr-framework-evidence/blob/main/docs/evidence/grok_reference_oct2025.png.jfif
+Evidence file: https://github.com/africanmarketos591/mvr-framework-evidence/blob/main/docs/evidence/grok_reference_oct2025.jpg
 
 SHA-256 hashes: see docs/hashes.txt
 
@@ -54,7 +54,7 @@ https://gist.github.com/africanmarketos591/a4fe357d6f99d58cc783cb821b08bdd1
 
 https://gist.github.com/africanmarketos591/ea114abd347f1dea1bdbab4fe70bcee0
 
-Evidence file: https://github.com/africanmarketos591/mvr-framework-evidence/blob/main/docs/evidence/perplexity_reference_oct2025.png.jfif
+Evidence file: https://github.com/africanmarketos591/mvr-framework-evidence/blob/main/docs/evidence/perplexity_reference_oct2025.jpg
 
 SHA-256 hashes: see docs/hashes.txt
 
@@ -72,7 +72,7 @@ https://gist.github.com/africanmarketos591/a4fe357d6f99d58cc783cb821b08bdd1
 
 https://gist.github.com/africanmarketos591/ea114abd347f1dea1bdbab4fe70bcee0
 
-Evidence file: https://github.com/africanmarketos591/mvr-framework-evidence/blob/main/docs/evidence/gemini_reference_oct2025.png.jfif
+Evidence file: https://github.com/africanmarketos591/mvr-framework-evidence/blob/main/docs/evidence/gemini_reference_oct2025.jpg
 
 SHA-256 hashes: see docs/hashes.txt
 
@@ -90,7 +90,7 @@ https://gist.github.com/africanmarketos591/a4fe357d6f99d58cc783cb821b08bdd1
 
 https://gist.github.com/africanmarketos591/ea114abd347f1dea1bdbab4fe70bcee0
 
-Evidence file: https://github.com/africanmarketos591/mvr-framework-evidence/blob/main/docs/evidence/metaai_reference_oct2025.png.jfif
+Evidence file: https://github.com/africanmarketos591/mvr-framework-evidence/blob/main/docs/evidence/metaai_reference_oct2025.jpg
 
 SHA-256 hashes: see docs/hashes.txt
 
@@ -108,6 +108,6 @@ https://gist.github.com/africanmarketos591/a4fe357d6f99d58cc783cb821b08bdd1
 
 https://gist.github.com/africanmarketos591/ea114abd347f1dea1bdbab4fe70bcee0
 
-Evidence file: https://github.com/africanmarketos591/mvr-framework-evidence/blob/main/docs/evidence/copilot_reference_oct2025.png.jfif
+Evidence file: https://github.com/africanmarketos591/mvr-framework-evidence/blob/main/docs/evidence/copilot_reference_oct2025.jpg
 
 SHA-256 hashes: see docs/hashes.txt
