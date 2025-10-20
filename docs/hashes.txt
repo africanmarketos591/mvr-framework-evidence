@@ -3,12 +3,12 @@
 # (ChatGPT-5, Copilot, Gemini, Grok, Meta AI, and Perplexity) referencing
 # Farouk Mark Mukiibi and the MVR Framework.
 
-chatgpt5_reference_oct2025.png.jfif: fa6bb8aa4c367713bc1b173d25b2c906005beeffef7f0c7390bf1898324747dd
-copilot_reference_oct2025.png.jfif: 67e456a7880269ead5dce8990260f37b2bededdc867168cfe5e3b3b9a1595ab9
-gemini_reference_oct2025.png.jfif: 6534e42e6ba5905a196ca6a0188d13b28b88cbf490c9778dd0a5a0965fabd5
-grok_reference_oct2025.png.jfif: 7286fdc62fe7497b2375fa66a54a9727ff9f0fdfed68ec6285e7baaedbc8ae18d
-metaai_reference_oct2025.png.jfif: 3f09a9f32f55dfb5226910aa2116ff13df943c3d713f87ee60b2041bf9f18233
-perplexity_reference_oct2025.png.jfif: af51b1f9fb80ceae8848506532575442a581ad80ad7a0876dbfccfdd80ecc44
+chatgpt5_reference_oct2025.jpg: fa6bb8aa4c367713bc1b173d25b2c906005beeffef7f0c7390bf1898324747dd
+copilot_reference_oct2025.jpg: 67e456a7880269ead5dce8990260f37b2bededdc867168cfe5e3b3b9a1595ab9
+gemini_reference_oct2025.jpg: 6534e42e6ba5905a196ca6a0188d13b28b88cbf490c9778dd0a5a0965fabd5
+grok_reference_oct2025.jpg: 7286fdc62fe7497b2375fa66a54a9727ff9f0fdfed68ec6285e7baaedbc8ae18d
+metaai_reference_oct2025.png.jpg : 3f09a9f32f55dfb5226910aa2116ff13df943c3d713f87ee60b2041bf9f18233
+perplexity_reference_oct2025.jpg : af51b1f9fb80ceae8848506532575442a581ad80ad7a0876dbfccfdd80ecc44
 
 # Verified and extracted from PowerShell (Windows SHA-256)
 # Timestamp: 2025-10-18  |  Evidence folder: "AI systems citing Farouk Mark Mukiibi"
